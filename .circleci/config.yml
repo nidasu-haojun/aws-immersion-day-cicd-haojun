@@ -29,7 +29,7 @@ workflows:
     # Inside the workflow, you define the jobs you want to run.
     jobs:
       - say-hello
-=======
+
 # This config was automatically generated from your source code
 # Stacks detected: deps:node:.
 version: 2.1
